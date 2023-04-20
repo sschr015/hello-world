@@ -1,2 +1,3 @@
 # hello-world
-For class
+
+Hi! I'm Sarah and I am a first year entomology graduate student. 
